@@ -1,0 +1,13 @@
+- Dataset đã qua giai đoạn tiền xử lý của nhóm ở link sau :  https://drive.google.com/file/d/1IoRUU-krMMYtXaIfeditthknhH3J_eeL/view?usp=sharing
+
+- Dataset gốc được cung cấp ở đường link sau : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
+- Hướng dẫn sử dụng chương trình :
+
+B1. Mở file ‘app.py’.
+
+B2. Chạy dòng lệnh sau : ‘streamlit run app.py’
+
+Lúc này ta có thể chọn các tùy chọn sau đó bấm dự đoán, chương trình sẽ xuất ra kết quả là xác xuất mắc/không mắc đột quỵ.
+
+Lưu ý : Đảm bảo cài đặt thư viện srteamlit trước khi chạy model.
